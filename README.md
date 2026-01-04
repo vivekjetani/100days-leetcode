@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vivekjetani/100days-leetcode/main/badge-total.json&style=for-the-badge" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vivekjetani/100days-leetcode/main/badge-easy.json&style=for-the-badge" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vivekjetani/100days-leetcode/main/badge-medium.json&style=for-the-badge" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vivekjetani/100days-leetcode/main/badge-hard.json&style=for-the-badge" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vivekjetani/100days-leetcode/main/badge-total.json?cache=1&style=for-the-badge" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vivekjetani/100days-leetcode/main/badge-easy.json?cache=1&style=for-the-badge" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vivekjetani/100days-leetcode/main/badge-medium.json?cache=1&style=for-the-badge" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/vivekjetani/100days-leetcode/main/badge-hard.json?cache=1&style=for-the-badge" />
   <img src="https://img.shields.io/github/languages/top/vivekjetani/100days-leetcode?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/vivekjetani/100days-leetcode?style=for-the-badge" />
 </p>
-
 ---
 
 ## 👋 About the Challenge
@@ -55,6 +54,9 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 
 ```
 ---
+<!-- AUTO_TABLE_START -->
+<!-- AUTO_TABLE_END -->
+---
 **🏆 Highlights**
 
 - ✨ Consistent daily coding
@@ -72,4 +74,4 @@ All solutions are written in **Java**, focusing on clean and optimized code.
  ![snake gif](https://github.com/vivekjetani/vivekjetani/blob/output/github-snake-dark.svg)
 
 ---
-> Consistency beats talent when talent isn’t consistent. 🚀 
+> Consistency beats talent when talent isn’t consistent. 🚀
