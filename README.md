@@ -55,6 +55,54 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 ```
 ---
 <!-- AUTO_TABLE_START -->
+| # | Problem | Difficulty | Language |
+|---|---------|------------|----------|
+| 1 | 1 2sum | Easy | Java |
+| 2 | 1015 SmallestIntegerDivisiblebyK | Easy | Java |
+| 3 | 1018 BinaryPrefixDivisibleBy5 | Easy | Java |
+| 4 | 1262 GreatestSumDivisiblebyThree | Easy | Java |
+| 5 | 1351 CountNegativeNumbersinaSortedMatrix | Easy | Java |
+| 6 | 1390 FourDivisors | Easy | Java |
+| 7 | 1411 NumberofWaystoPaintN×3Grid | Easy | Java |
+| 8 | 151 ReverseWordsinaString | Easy | Java |
+| 9 | 1523 CountOddNumbersinanIntervalRange | Easy | Java |
+| 10 | 1590 MakeSumDivisiblebyP | Easy | Java |
+| 11 | 1768 MergeStringsAlternately | Easy | Java |
+| 12 | 1925 CountSquareSumTriples | Easy | Java |
+| 13 | 1970 LastDayWhereYouCanStillCross | Easy | Java |
+| 14 | 2 addTwoNumbers | Easy | Java |
+| 15 | 2054 TwoBestNon-OverlappingEvents | Easy | Java |
+| 16 | 2092 FindAllPeopleWithSecret | Easy | Java |
+| 17 | 2110 NumberofSmoothDescentPeriodsofaStock | Easy | Java |
+| 18 | 2141 MaximumRunningTimeofNComputers | Easy | Java |
+| 19 | 2147 NumberofWaystoDivideaLongCorridor | Easy | Java |
+| 20 | 2211 CountCollisionsonaRoad | Easy | Java |
+| 21 | 238 ProductofArrayExceptSelf | Easy | Java |
+| 22 | 2402 MeetingRoomsIII | Easy | Java |
+| 23 | 2483 MinimumPenaltyforaShop | Easy | Java |
+| 24 | 3 LongestSubstringWithoutRepeatingCharacters | Easy | Java |
+| 25 | 3074 AppleRedistributionintoBoxes | Easy | Java |
+| 26 | 3075 MaximizeHappinessofSelectedChildren | Easy | Java |
+| 27 | 3190 FindMinimumOperationstoMakeAllElementsDivisiblebyThree | Easy | Java |
+| 28 | 3381 MaximumSubarraySumWithLengthDivisiblebyK | Easy | Java |
+| 29 | 3432 CountPartitionswithEvenSumDifference | Easy | Java |
+| 30 | 3433 CountMentionsPerUser | Easy | Java |
+| 31 | 3512 MinimumOperationstoMakeArraySumDivisiblebyK | Easy | Java |
+| 32 | 3531 CountCoveredBuildings | Easy | Java |
+| 33 | 3573 BestTimetoBuyandSellStockV | Easy | Java |
+| 34 | 3577 Count theNumberofComputerUnlockingPermutations | Easy | Java |
+| 35 | 3578 CountPartitionsWithMax-MinDifferenceatMostK | Easy | Java |
+| 36 | 3583 CountSpecialTriplets | Easy | Java |
+| 37 | 3606 CouponCodeValidator | Easy | Java |
+| 38 | 3623 CountNumberofTrapezoidsI | Easy | Java |
+| 39 | 3652 BestTimetoBuyandSellStockusingStrategy | Easy | Java |
+| 40 | 66 PlusOne | Hard | Java |
+| 41 | 756 PyramidTransitionMatrix | Hard | Java |
+| 42 | 840 MagicSquaresInGrid | Hard | Java |
+| 43 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 44 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 45 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 46 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
