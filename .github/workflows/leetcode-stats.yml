@@ -5,6 +5,10 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+# 🔑 THIS IS THE FIX
+permissions:
+  contents: write
+
 jobs:
   stats:
     runs-on: ubuntu-latest
@@ -19,18 +23,16 @@ jobs:
           HARD=0
           TOTAL=0
 
-          echo "| # | Problem | Difficulty | Language |" > table.md
-          echo "|---|---------|------------|----------|" >> table.md
+          TABLE="| # | Problem | Difficulty | Language |\n|---|---------|------------|----------|"
 
           for file in *.java; do
             TOTAL=$((TOTAL+1))
-
             NAME=$(basename "$file" .java)
 
-            if [[ "$NAME" =~ ^1|^2|^3|^4|^5 ]]; then
+            if [[ "$NAME" =~ ^[0-4] ]]; then
               DIFF="Easy"
               EASY=$((EASY+1))
-            elif [[ "$NAME" =~ ^6|^7|^8|^9|^10|^11|^12|^13 ]]; then
+            elif [[ "$NAME" =~ ^[5-12] ]]; then
               DIFF="Medium"
               MEDIUM=$((MEDIUM+1))
             else
@@ -38,13 +40,24 @@ jobs:
               HARD=$((HARD+1))
             fi
 
-            echo "| $TOTAL | $NAME | $DIFF | Java |" >> table.md
+            TABLE="$TABLE\n| $TOTAL | $NAME | $DIFF | Java |"
           done
+
+          echo -e "$TABLE" > table.md
 
           echo "{ \"schemaVersion\": 1, \"label\": \"Problems Solved\", \"message\": \"$TOTAL\", \"color\": \"brightgreen\" }" > badge-total.json
           echo "{ \"schemaVersion\": 1, \"label\": \"Easy\", \"message\": \"$EASY\", \"color\": \"success\" }" > badge-easy.json
           echo "{ \"schemaVersion\": 1, \"label\": \"Medium\", \"message\": \"$MEDIUM\", \"color\": \"orange\" }" > badge-medium.json
           echo "{ \"schemaVersion\": 1, \"label\": \"Hard\", \"message\": \"$HARD\", \"color\": \"red\" }" > badge-hard.json
+
+      - name: Inject table into README
+        run: |
+          awk '
+          BEGIN{p=1}
+          /<!-- AUTO_TABLE_START -->/{print;system("cat table.md");p=0}
+          /<!-- AUTO_TABLE_END -->/{p=1}
+          p' README.md > README.tmp
+          mv README.tmp README.md
 
       - name: Commit changes
         run: |
