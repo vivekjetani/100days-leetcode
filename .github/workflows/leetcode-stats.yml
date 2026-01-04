@@ -53,10 +53,20 @@ jobs:
       - name: Inject table into README
         run: |
           awk '
-          BEGIN{p=1}
-          /<!-- AUTO_TABLE_START -->/{print;system("cat table.md");p=0}
-          /<!-- AUTO_TABLE_END -->/{p=1}
-          p' README.md > README.tmp
+          BEGIN {found=0}
+          /<!-- AUTO_TABLE_START -->/ {
+            print;
+            system("cat table.md");
+            found=1;
+            next
+          }
+          /<!-- AUTO_TABLE_END -->/ {
+            print;
+            found=0;
+            next
+          }
+          found==0 { print }
+          ' README.md > README.tmp
           mv README.tmp README.md
 
       - name: Commit changes
