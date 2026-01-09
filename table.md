@@ -46,7 +46,8 @@
 | 44 | 66 PlusOne | Hard | Java |
 | 45 | 756 PyramidTransitionMatrix | Hard | Java |
 | 46 | 840 MagicSquaresInGrid | Hard | Java |
-| 47 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 48 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 49 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 50 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 47 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 48 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 49 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 50 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 51 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
