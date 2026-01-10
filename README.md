@@ -101,13 +101,14 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 | 42 | 3623 CountNumberofTrapezoidsI | Easy | Java |
 | 43 | 3652 BestTimetoBuyandSellStockusingStrategy | Easy | Java |
 | 44 | 66 PlusOne | Hard | Java |
-| 45 | 756 PyramidTransitionMatrix | Hard | Java |
-| 46 | 840 MagicSquaresInGrid | Hard | Java |
-| 47 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 48 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 49 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 50 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 51 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 45 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
+| 46 | 756 PyramidTransitionMatrix | Hard | Java |
+| 47 | 840 MagicSquaresInGrid | Hard | Java |
+| 48 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 49 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 50 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 51 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 52 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
