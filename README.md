@@ -104,11 +104,12 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 | 45 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
 | 46 | 756 PyramidTransitionMatrix | Hard | Java |
 | 47 | 840 MagicSquaresInGrid | Hard | Java |
-| 48 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 49 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 50 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 51 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 52 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 48 | 85 MaximalRectangle | Hard | Java |
+| 49 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 50 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 51 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 52 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 53 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
