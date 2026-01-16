@@ -86,34 +86,35 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 | 27 | 2402 MeetingRoomsIII | Easy | Java |
 | 28 | 2483 MinimumPenaltyforaShop | Easy | Java |
 | 29 | 2943 MaximizeAreaofSquareHoleinGrid | Easy | Java |
-| 30 | 3 LongestSubstringWithoutRepeatingCharacters | Easy | Java |
-| 31 | 3074 AppleRedistributionintoBoxes | Easy | Java |
-| 32 | 3075 MaximizeHappinessofSelectedChildren | Easy | Java |
-| 33 | 3190 FindMinimumOperationstoMakeAllElementsDivisiblebyThree | Easy | Java |
-| 34 | 3381 MaximumSubarraySumWithLengthDivisiblebyK | Easy | Java |
-| 35 | 3432 CountPartitionswithEvenSumDifference | Easy | Java |
-| 36 | 3433 CountMentionsPerUser | Easy | Java |
-| 37 | 3453 SeparateSquaresI | Easy | Java |
-| 38 | 3454 SeparateSquaresII | Easy | Java |
-| 39 | 3512 MinimumOperationstoMakeArraySumDivisiblebyK | Easy | Java |
-| 40 | 3531 CountCoveredBuildings | Easy | Java |
-| 41 | 3573 BestTimetoBuyandSellStockV | Easy | Java |
-| 42 | 3577 Count theNumberofComputerUnlockingPermutations | Easy | Java |
-| 43 | 3578 CountPartitionsWithMax-MinDifferenceatMostK | Easy | Java |
-| 44 | 3583 CountSpecialTriplets | Easy | Java |
-| 45 | 3606 CouponCodeValidator | Easy | Java |
-| 46 | 3623 CountNumberofTrapezoidsI | Easy | Java |
-| 47 | 3652 BestTimetoBuyandSellStockusingStrategy | Easy | Java |
-| 48 | 66 PlusOne | Hard | Java |
-| 49 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
-| 50 | 756 PyramidTransitionMatrix | Hard | Java |
-| 51 | 840 MagicSquaresInGrid | Hard | Java |
-| 52 | 85 MaximalRectangle | Hard | Java |
-| 53 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 54 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 55 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 56 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 57 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 30 | 2975 MaximumSquareAreabyRemovingFencesFromaField | Easy | Java |
+| 31 | 3 LongestSubstringWithoutRepeatingCharacters | Easy | Java |
+| 32 | 3074 AppleRedistributionintoBoxes | Easy | Java |
+| 33 | 3075 MaximizeHappinessofSelectedChildren | Easy | Java |
+| 34 | 3190 FindMinimumOperationstoMakeAllElementsDivisiblebyThree | Easy | Java |
+| 35 | 3381 MaximumSubarraySumWithLengthDivisiblebyK | Easy | Java |
+| 36 | 3432 CountPartitionswithEvenSumDifference | Easy | Java |
+| 37 | 3433 CountMentionsPerUser | Easy | Java |
+| 38 | 3453 SeparateSquaresI | Easy | Java |
+| 39 | 3454 SeparateSquaresII | Easy | Java |
+| 40 | 3512 MinimumOperationstoMakeArraySumDivisiblebyK | Easy | Java |
+| 41 | 3531 CountCoveredBuildings | Easy | Java |
+| 42 | 3573 BestTimetoBuyandSellStockV | Easy | Java |
+| 43 | 3577 Count theNumberofComputerUnlockingPermutations | Easy | Java |
+| 44 | 3578 CountPartitionsWithMax-MinDifferenceatMostK | Easy | Java |
+| 45 | 3583 CountSpecialTriplets | Easy | Java |
+| 46 | 3606 CouponCodeValidator | Easy | Java |
+| 47 | 3623 CountNumberofTrapezoidsI | Easy | Java |
+| 48 | 3652 BestTimetoBuyandSellStockusingStrategy | Easy | Java |
+| 49 | 66 PlusOne | Hard | Java |
+| 50 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
+| 51 | 756 PyramidTransitionMatrix | Hard | Java |
+| 52 | 840 MagicSquaresInGrid | Hard | Java |
+| 53 | 85 MaximalRectangle | Hard | Java |
+| 54 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 55 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 56 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 57 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 58 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
