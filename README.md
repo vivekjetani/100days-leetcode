@@ -101,25 +101,26 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 | 42 | 3433 CountMentionsPerUser | Easy | Java |
 | 43 | 3453 SeparateSquaresI | Easy | Java |
 | 44 | 3454 SeparateSquaresII | Easy | Java |
-| 45 | 3512 MinimumOperationstoMakeArraySumDivisiblebyK | Easy | Java |
-| 46 | 3531 CountCoveredBuildings | Easy | Java |
-| 47 | 3573 BestTimetoBuyandSellStockV | Easy | Java |
-| 48 | 3577 Count theNumberofComputerUnlockingPermutations | Easy | Java |
-| 49 | 3578 CountPartitionsWithMax-MinDifferenceatMostK | Easy | Java |
-| 50 | 3583 CountSpecialTriplets | Easy | Java |
-| 51 | 3606 CouponCodeValidator | Easy | Java |
-| 52 | 3623 CountNumberofTrapezoidsI | Easy | Java |
-| 53 | 3652 BestTimetoBuyandSellStockusingStrategy | Easy | Java |
-| 54 | 66 PlusOne | Hard | Java |
-| 55 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
-| 56 | 756 PyramidTransitionMatrix | Hard | Java |
-| 57 | 840 MagicSquaresInGrid | Hard | Java |
-| 58 | 85 MaximalRectangle | Hard | Java |
-| 59 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 60 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 61 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 62 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 63 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 45 | 3507 MinimumPairRemovaltoSortArrayI | Easy | Java |
+| 46 | 3512 MinimumOperationstoMakeArraySumDivisiblebyK | Easy | Java |
+| 47 | 3531 CountCoveredBuildings | Easy | Java |
+| 48 | 3573 BestTimetoBuyandSellStockV | Easy | Java |
+| 49 | 3577 Count theNumberofComputerUnlockingPermutations | Easy | Java |
+| 50 | 3578 CountPartitionsWithMax-MinDifferenceatMostK | Easy | Java |
+| 51 | 3583 CountSpecialTriplets | Easy | Java |
+| 52 | 3606 CouponCodeValidator | Easy | Java |
+| 53 | 3623 CountNumberofTrapezoidsI | Easy | Java |
+| 54 | 3652 BestTimetoBuyandSellStockusingStrategy | Easy | Java |
+| 55 | 66 PlusOne | Hard | Java |
+| 56 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
+| 57 | 756 PyramidTransitionMatrix | Hard | Java |
+| 58 | 840 MagicSquaresInGrid | Hard | Java |
+| 59 | 85 MaximalRectangle | Hard | Java |
+| 60 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 61 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 62 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 63 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 64 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
