@@ -121,14 +121,15 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 | 62 | 3652 BestTimetoBuyandSellStockusingStrategy | Easy | Java |
 | 63 | 66 PlusOne | Hard | Java |
 | 64 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
-| 65 | 756 PyramidTransitionMatrix | Hard | Java |
-| 66 | 840 MagicSquaresInGrid | Hard | Java |
-| 67 | 85 MaximalRectangle | Hard | Java |
-| 68 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 69 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 70 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 71 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 72 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 65 | 744 FindSmallestLetterGreaterThanTarget | Hard | Java |
+| 66 | 756 PyramidTransitionMatrix | Hard | Java |
+| 67 | 840 MagicSquaresInGrid | Hard | Java |
+| 68 | 85 MaximalRectangle | Hard | Java |
+| 69 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 70 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 71 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 72 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 73 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
