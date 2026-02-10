@@ -128,17 +128,18 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 | 69 | 3650 MinimumCostPathwithEdgeReversals | Easy | Java |
 | 70 | 3651 MinimumCostPathwithTeleportations | Easy | Java |
 | 71 | 3652 BestTimetoBuyandSellStockusingStrategy | Easy | Java |
-| 72 | 66 PlusOne | Hard | Java |
-| 73 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
-| 74 | 744 FindSmallestLetterGreaterThanTarget | Hard | Java |
-| 75 | 756 PyramidTransitionMatrix | Hard | Java |
-| 76 | 840 MagicSquaresInGrid | Hard | Java |
-| 77 | 85 MaximalRectangle | Hard | Java |
-| 78 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 79 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 80 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 81 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 82 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 72 | 3719 LongestBalancedSubarrayI | Easy | Java |
+| 73 | 66 PlusOne | Hard | Java |
+| 74 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
+| 75 | 744 FindSmallestLetterGreaterThanTarget | Hard | Java |
+| 76 | 756 PyramidTransitionMatrix | Hard | Java |
+| 77 | 840 MagicSquaresInGrid | Hard | Java |
+| 78 | 85 MaximalRectangle | Hard | Java |
+| 79 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 80 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 81 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 82 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 83 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
