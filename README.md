@@ -129,19 +129,20 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 | 70 | 3651 MinimumCostPathwithTeleportations | Easy | Java |
 | 71 | 3652 BestTimetoBuyandSellStockusingStrategy | Easy | Java |
 | 72 | 3713 LongestBalancedSubstringI | Easy | Java |
-| 73 | 3719 LongestBalancedSubarrayI | Easy | Java |
-| 74 | 3721 LongestBalancedSubarrayII | Easy | Java |
-| 75 | 66 PlusOne | Hard | Java |
-| 76 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
-| 77 | 744 FindSmallestLetterGreaterThanTarget | Hard | Java |
-| 78 | 756 PyramidTransitionMatrix | Hard | Java |
-| 79 | 840 MagicSquaresInGrid | Hard | Java |
-| 80 | 85 MaximalRectangle | Hard | Java |
-| 81 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 82 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 83 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 84 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 85 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 73 | 3714 LongestBalancedSubstringII | Easy | Java |
+| 74 | 3719 LongestBalancedSubarrayI | Easy | Java |
+| 75 | 3721 LongestBalancedSubarrayII | Easy | Java |
+| 76 | 66 PlusOne | Hard | Java |
+| 77 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
+| 78 | 744 FindSmallestLetterGreaterThanTarget | Hard | Java |
+| 79 | 756 PyramidTransitionMatrix | Hard | Java |
+| 80 | 840 MagicSquaresInGrid | Hard | Java |
+| 81 | 85 MaximalRectangle | Hard | Java |
+| 82 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 83 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 84 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 85 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 86 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
