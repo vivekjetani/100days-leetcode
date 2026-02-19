@@ -137,17 +137,18 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 | 78 | 66 PlusOne | Hard | Java |
 | 79 | 67 AddBinary | Hard | Java |
 | 80 | 693 BinaryNumberwithAlternatingBits | Hard | Java |
-| 81 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
-| 82 | 744 FindSmallestLetterGreaterThanTarget | Hard | Java |
-| 83 | 756 PyramidTransitionMatrix | Hard | Java |
-| 84 | 799 ChampagneTower | Hard | Java |
-| 85 | 840 MagicSquaresInGrid | Hard | Java |
-| 86 | 85 MaximalRectangle | Hard | Java |
-| 87 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 88 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 89 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 90 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 91 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 81 | 696 CountBinarySubstrings | Hard | Java |
+| 82 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
+| 83 | 744 FindSmallestLetterGreaterThanTarget | Hard | Java |
+| 84 | 756 PyramidTransitionMatrix | Hard | Java |
+| 85 | 799 ChampagneTower | Hard | Java |
+| 86 | 840 MagicSquaresInGrid | Hard | Java |
+| 87 | 85 MaximalRectangle | Hard | Java |
+| 88 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 89 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 90 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 91 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 92 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
