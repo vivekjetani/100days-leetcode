@@ -141,14 +141,15 @@ All solutions are written in **Java**, focusing on clean and optimized code.
 | 82 | 712 MinimumASCIIDeleteSumforTwoStrings | Hard | Java |
 | 83 | 744 FindSmallestLetterGreaterThanTarget | Hard | Java |
 | 84 | 756 PyramidTransitionMatrix | Hard | Java |
-| 85 | 799 ChampagneTower | Hard | Java |
-| 86 | 840 MagicSquaresInGrid | Hard | Java |
-| 87 | 85 MaximalRectangle | Hard | Java |
-| 88 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 89 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 90 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 91 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 92 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 85 | 761 SpecialBinaryString | Hard | Java |
+| 86 | 799 ChampagneTower | Hard | Java |
+| 87 | 840 MagicSquaresInGrid | Hard | Java |
+| 88 | 85 MaximalRectangle | Hard | Java |
+| 89 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
+| 90 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 91 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 92 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 93 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
 <!-- AUTO_TABLE_END -->
 ---
 **🏆 Highlights**
