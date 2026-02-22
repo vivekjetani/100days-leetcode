@@ -90,7 +90,8 @@
 | 88 | 840 MagicSquaresInGrid | Hard | Java |
 | 89 | 85 MaximalRectangle | Hard | Java |
 | 90 | 865 SmallestSubtreewithalltheDeepestNodes | Hard | Java |
-| 91 | 944 DeleteColumnstoMakeSorted | Hard | Java |
-| 92 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
-| 93 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
-| 94 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
+| 91 | 868 BinaryGap | Hard | Java |
+| 92 | 944 DeleteColumnstoMakeSorted | Hard | Java |
+| 93 | 955 DeleteColumnstoMakeSortedII | Hard | Java |
+| 94 | 960 DeleteColumnstoMakeSortedIII | Hard | Java |
+| 95 | 961 N-RepeatedElementinSize2NArray | Hard | Java |
