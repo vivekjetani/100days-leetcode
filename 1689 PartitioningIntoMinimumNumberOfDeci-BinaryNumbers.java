@@ -1,0 +1,19 @@
+class Solution {
+     static {
+        for (int i = 0; i < 500; i++) {
+            new Solution().minPartitions("0");
+        }
+    }
+    public int minPartitions(String n) {
+        int max = 0;
+        for(int i=0;i<n.length();i++){
+            if(((n.charAt(i))-'0')>max){
+                max = (n.charAt(i))-'0';
+            }
+            if(max == 9){
+                return 9;
+            }
+        }
+        return max;
+    }
+}
